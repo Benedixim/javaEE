@@ -1,6 +1,6 @@
 package com.logic;
 
-//изменения
+//изменения!!!
 public class Test {
     public String getInfo(){
         return "Form test";
